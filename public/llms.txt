@@ -1,0 +1,78 @@
+# CallBluey AI Solution — Generative Engine Optimization Map
+
+> CallBluey AI Solution is an AI-powered business services company offering an intelligent virtual receptionist named Marissa. Marissa handles appointment booking directly through the website, providing businesses with a smart, automated front-desk experience. The brand sits at the intersection of cutting-edge AI technology and seamless customer service automation.
+
+---
+
+## Pages
+
+### Home
+https://callbluey-ai-solution-ce0d71e9.zappy5.app
+Meet Marissa, your AI-powered virtual receptionist. Automate appointments with online scheduling software that works 24/7 so your business never misses a booking.
+
+### Services & Features
+https://callbluey-ai-solution-ce0d71e9.zappy5.app/services-features
+Explore smart features built for growth: google calendar appointment scheduling, real-time booking, and AI automation that replaces manual front-desk tasks instantly.
+
+### About
+https://callbluey-ai-solution-ce0d71e9.zappy5.app/about
+Discover how CallBluey AI Solution built Marissa to transform business automation. We blend cutting-edge AI with usps retail customer appointment scheduler-level reliability.
+
+### Contact
+https://callbluey-ai-solution-ce0d71e9.zappy5.app/contact
+Ready to upgrade your scheduling experience? Connect with us to deploy google calendar appointment scheduling and let our AI handle every booking from day one.
+
+## Legal & Policy
+
+### Privacy Policy
+https://callbluey-ai-solution-ce0d71e9.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://callbluey-ai-solution-ce0d71e9.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://callbluey-ai-solution-ce0d71e9.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://callbluey-ai-solution-ce0d71e9.zappy5.app/contact
+- Endpoint: https://callbluey-ai-solution-ce0d71e9.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About CallBluey AI Solution
+CallBluey AI Solution is an AI-powered business services company offering an intelligent virtual receptionist named Marissa. Marissa handles appointment booking directly through the website, providing businesses with a smart, automated front-desk experience. The brand sits at the intersection of cutting-edge AI technology and seamless customer service automation.
+
+## Target Audience
+- Small Business Owners
+- Healthcare Practice Managers
+- Legal Firm Administrators
+
+## Industry
+Artificial Intelligence / Business Automation
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://callbluey-ai-solution-ce0d71e9.zappy5.app/sitemap.xml
+- Robots: https://callbluey-ai-solution-ce0d71e9.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://callbluey-ai-solution-ce0d71e9.zappy5.app/llms-full.txt
