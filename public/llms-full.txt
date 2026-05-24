@@ -2,13 +2,13 @@
 
 CallBluey AI Solution is an AI-powered business services company offering an intelligent virtual receptionist named Marissa. Marissa handles appointment booking directly through the website, providing businesses with a smart, automated front-desk experience. The brand sits at the intersection of cutting-edge AI technology and seamless customer service automation.
 
-Source: https://callbluey-ai-solution-ce0d71e9.zappy5.app
+Source: https://example.com
 
 ---
 
 ## Book Smarter, Not Harder — CallBluey AI Solution
 
-URL: https://callbluey-ai-solution-ce0d71e9.zappy5.app
+URL: https://example.com
 Description: Meet Marissa, your AI-powered virtual receptionist. Automate appointments with online scheduling software that works 24/7 so your business never misses a booking.
 
 Book Smarter, Not Harder — CallBluey AI Solution
@@ -571,7 +571,7 @@ Privacy Policy   •   Terms & Conditions   •   Accessibility   •   Generate
 
 ## Your Front Desk, Fully Automated — CallBluey AI Solution
 
-URL: https://callbluey-ai-solution-ce0d71e9.zappy5.app/services-features
+URL: https://example.com/services-features
 Description: Explore smart features built for growth: google calendar appointment scheduling, real-time booking, and AI automation that replaces manual front-desk tasks instantly.
 
 Your Front Desk, Fully Automated — CallBluey AI Solution
@@ -1097,7 +1097,7 @@ Privacy Policy   •   Terms & Conditions   •   Accessibility   •   Generate
 
 ## The AI Team Redefining Customer Service — CallBluey AI Solution
 
-URL: https://callbluey-ai-solution-ce0d71e9.zappy5.app/about
+URL: https://example.com/about
 Description: Discover how CallBluey AI Solution built Marissa to transform business automation. We blend cutting-edge AI with usps retail customer appointment scheduler-level reliability.
 
 The AI Team Redefining Customer Service — CallBluey AI Solution
@@ -1525,7 +1525,7 @@ Privacy Policy   •   Terms & Conditions   •   Accessibility   •   Generate
 
 ## Let Marissa Start Working for You Today — CallBluey AI Solution
 
-URL: https://callbluey-ai-solution-ce0d71e9.zappy5.app/contact
+URL: https://example.com/contact
 Description: Ready to upgrade your scheduling experience? Connect with us to deploy google calendar appointment scheduling and let our AI handle every booking from day one.
 
 Let Marissa Start Working for You Today — CallBluey AI Solution
@@ -1892,7 +1892,7 @@ Privacy Policy   •   Terms & Conditions   •   Accessibility   •   Generate
 
 ## Privacy Policy
 
-URL: https://callbluey-ai-solution-ce0d71e9.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: Our privacy policy - how we collect, use, and protect your information
 
 Privacy Policy
@@ -2090,7 +2090,7 @@ Privacy Policy   •   Terms & Conditions   •   Accessibility   •   Generate
 
 ## Accessibility Statement
 
-URL: https://callbluey-ai-solution-ce0d71e9.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: Our accessibility statement - our commitment to digital accessibility
 
 Accessibility Statement
@@ -2294,7 +2294,7 @@ Privacy Policy   •   Terms & Conditions   •   Accessibility   •   Generate
 
 ## Terms & Conditions
 
-URL: https://callbluey-ai-solution-ce0d71e9.zappy5.app/terms
+URL: https://example.com/terms
 Description: Terms of service - user rights and obligations
 
 Terms & Conditions
