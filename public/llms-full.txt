@@ -418,7 +418,7 @@ Service Providers
 
 
 
-“
+"
 
 
 
@@ -556,9 +556,9 @@ Always-On AI Receptionist
 - Contact
 
 ### Contact
-- [business_email]
-- [business_phone]
-- [business_address]
+- callblueyai@consultant.com
+- +17252263833
+- South Lake Tahoe , California , 96150, USA
 
 ### Connect
 
@@ -1082,9 +1082,9 @@ Always-On AI Receptionist
 - Contact
 
 ### Contact
-- [business_email]
-- [business_phone]
-- [business_address]
+- callblueyai@consultant.com
+- +17252263833
+- South Lake Tahoe , California , 96150, USA
 
 ### Connect
 
@@ -1510,9 +1510,9 @@ Always-On AI Receptionist
 - Contact
 
 ### Contact
-- [business_email]
-- [business_phone]
-- [business_address]
+- callblueyai@consultant.com
+- +17252263833
+- South Lake Tahoe , California , 96150, USA
 
 ### Connect
 
@@ -1877,9 +1877,9 @@ Always-On AI Receptionist
 - Contact
 
 ### Contact
-- [business_email]
-- [business_phone]
-- [business_address]
+- callblueyai@consultant.com
+- +17252263833
+- South Lake Tahoe , California , 96150, USA
 
 ### Connect
 
@@ -2048,11 +2048,11 @@ For questions or requests regarding this privacy policy, please contact us:
 
 - Company: CallBluey AI Solution
 
-- Email: [business_email]
+- Email: callblueyai@consultant.com
 
-- Phone: [business_phone]
+- Phone: +17252263833
 
-- Address: [business_address]
+- Address: South Lake Tahoe , California , 96150, USA
 
 
 
@@ -2075,9 +2075,9 @@ Always-On AI Receptionist
 - Contact
 
 ### Contact
-- [business_email]
-- [business_phone]
-- [business_address]
+- callblueyai@consultant.com
+- +17252263833
+- South Lake Tahoe , California , 96150, USA
 
 ### Connect
 
@@ -2254,9 +2254,9 @@ If you encounter an accessibility issue on the site or need assistance, please c
 
 - Company: CallBluey AI Solution
 
-- Email: [business_email]
+- Email: callblueyai@consultant.com
 
-- Phone: [business_phone]
+- Phone: +17252263833
 
 
 
@@ -2279,9 +2279,9 @@ Always-On AI Receptionist
 - Contact
 
 ### Contact
-- [business_email]
-- [business_phone]
-- [business_address]
+- callblueyai@consultant.com
+- +17252263833
+- South Lake Tahoe , California , 96150, USA
 
 ### Connect
 
@@ -2481,11 +2481,11 @@ For questions or clarifications regarding the terms of use:
 
 - Company: CallBluey AI Solution
 
-- Email: [business_email]
+- Email: callblueyai@consultant.com
 
-- Phone: [business_phone]
+- Phone: +17252263833
 
-- Address: [business_address]
+- Address: South Lake Tahoe , California , 96150, USA
 
 
 
@@ -2505,9 +2505,9 @@ Always-On AI Receptionist
 - Contact
 
 ### Contact
-- [business_email]
-- [business_phone]
-- [business_address]
+- callblueyai@consultant.com
+- +17252263833
+- South Lake Tahoe , California , 96150, USA
 
 ### Connect
 

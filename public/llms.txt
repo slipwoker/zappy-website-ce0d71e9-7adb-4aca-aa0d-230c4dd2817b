@@ -40,7 +40,10 @@ Information about WCAG compliance and accessibility features.
 
 ## How to Contact Us
 
-- (No contact details configured yet.)
+- Email: callblueyai@consultant.com
+- Phone: +17252263833
+- Phone (tel): tel:+17252263833
+- Address: South Lake Tahoe , California , 96150, USA 
 
 ### Contact form
 - URL: https://example.com/contact
